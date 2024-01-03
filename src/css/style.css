@@ -98,35 +98,35 @@ body {
 
 
 .ladrilhos .grande{
-    background: url(/src/Imagens/4.jpg)
+    background: url(../Imagens/4.jpg)
     center center no-repeat;
     height: 600px;
     width: 50%;
 }
 
 .ladrilhos .pequeno {
-    background: url(/src/Imagens/3.jpg)
+    background: url(../Imagens/3.jpg)
     center center no-repeat;
     height: 300px;
     width:25%;
 }
 
 .ladrilhos .pequeno.grao{
-    background: url(/src/Imagens/2.jpg)
+    background: url(../Imagens/2.jpg)
     center center no-repeat;
     height: 300px;
     width:25%;
 }
 
 .ladrilhos .medio {
-    background: url(/src/Imagens/1.jpg)
+    background: url(../Imagens/1.jpg)
     center center no-repeat;
     height: 300px;
     width:50%;
 }
 
 .contato{
-    background: url(/src/Imagens/fundo-contato.jpg)
+    background: url(../Imagens/fundo-contato.jpg)
     center center no-repeat;
     color: white;
     height: 600px;
@@ -151,7 +151,7 @@ body {
 }
 
 .rodape {
-    background: url(/src/Imagens/fundo-rodape.jpg)
+    background: url(../Imagens/fundo-rodape.jpg)
     center center no-repeat;
     padding: 35px 30px;
     background-size: cover;
